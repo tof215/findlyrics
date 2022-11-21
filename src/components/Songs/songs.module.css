@@ -1,0 +1,19 @@
+.songs {
+  padding-bottom: 20px;
+}
+.wrapper {
+  min-height: 120vh;
+}
+.songs h3 {
+  background: linear-gradient(
+    94.19deg,
+    #d3ae54 0%,
+    #fded7d 44.88%,
+    #fded7d 85.84%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  font-weight: 600;
+}
